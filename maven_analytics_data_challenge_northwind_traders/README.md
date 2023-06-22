@@ -1,3 +1,4 @@
+## Note: For the full interactive version of the dashboard, you can visit: https://tinyurl.com/yc5mzspe  
 ### Northwind Traders Gourmet Supply Data Analysis Report
 
 #### Problem Statement & Task: 
