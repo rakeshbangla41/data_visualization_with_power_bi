@@ -29,7 +29,7 @@ On-Time Deliveries %: 95.4%
 #### Key/Top Customers by order amount: 
 
 QUICK-Stop (Germany), Ernst Handel (Austria), Save-a-lot Markets (USA), Rattlesnake Canyon Grocery (USA), Hungry Owl All-Night Grocers (Ireland) are the top 5 customers w.r.t order amount. These 5 companies have contributed to $0.42 M out of $1.27 M total order amount.
-
+ 
 #### Best/Least selling Products by order amount: 
 
 Côte de Blaye (Beverages), Thüringer Rostbratwurst (Meat & Poultry), Raclette Courdavault (Dairy Products), Tarte au sucre (Confections), Camembert Pierrot (Dairy Products) are the top 5 best-selling products accounting to $0.39 M out of $1.27 M total order amount.
