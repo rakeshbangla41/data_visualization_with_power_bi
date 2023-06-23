@@ -1,4 +1,4 @@
-## For the full interactive version of the dashboard, you can visit: https://tinyurl.com/46mhjayw or https://tinyurl.com/yztfnswj 
+## Note: For the full interactive version of the dashboard, you can visit: https://tinyurl.com/46mhjayw or https://tinyurl.com/yztfnswj 
 
 ### HR Data Analysis
 
