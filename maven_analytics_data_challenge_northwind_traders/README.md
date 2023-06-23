@@ -15,6 +15,12 @@ Excel sheets provided by Maven Analytics
 
 Microsoft Power BI
 
+#### Data Cleaning and Transformation: 
+
+The dataset received was mostly clean. I have to clean-up some minor inconsistencies.  
+
+For the purpose of Data Analysis, I have created certain calculated columns and measures using DAX/M language.
+
 #### High-level data stats: 
 
 Total Orders: 830  
@@ -76,4 +82,12 @@ Some of the discontinued products like Thüringer Rostbratwurst, Alice Mutton, R
 
 #### Discounted Products:
 
-Products like Côte de Blaye, Thüringer Rostbratwurst, Raclette Courdavault, Tarte au sucre, on which higher discounts were offered, are also the same products which brought in higher order amounts
+Products like Côte de Blaye, Thüringer Rostbratwurst, Raclette Courdavault, Tarte au sucre, on which higher discounts were offered, are also the same products which brought in higher order amounts.
+
+#### Countries supplied: 
+Northwind traders has all it’s customer base in: Europe, North America and South America. 
+
+Most of the countries we supply to, are in Europe. 
+
+Since, Europe is a very big market, we can think of expanding our business to other countries as well based on the demand and supply of gourmet food products in those countries. A survey or a research could help alot in deciding about business requirements.
+
