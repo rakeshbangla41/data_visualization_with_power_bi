@@ -2,7 +2,7 @@
 
 ### HR Data Analysis Report
 
-### Problem Statement & Task: 
+#### Problem Statement & Task: 
 The Human Resource (HR) department of a corporate company has all the data related to its employees like employee name, DOB, marital status, company branch, department, job title, employee hire date, leave date, reason for leaving the company and other data. 
 
 The task here is to analyze the given employees dataset and come up with useful insights and recommendations to the HR department.
