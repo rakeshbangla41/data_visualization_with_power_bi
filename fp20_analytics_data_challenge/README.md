@@ -1,6 +1,6 @@
 ## Note: For the full interactive version of the dashboard, you can visit: https://tinyurl.com/46mhjayw or https://tinyurl.com/yztfnswj 
 
-### HR Data Analysis
+### HR Data Analysis Report
 
 ### Problem Statement & Task: 
 The Human Resource (HR) department of a corporate company has all the data related to its employees like employee name, DOB, marital status, company branch, department, job title, employee hire date, leave date, reason for leaving the company and other data. 
